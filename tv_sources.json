@@ -1,10 +1,14 @@
-[
-  {
-    "name": "私人索尼资源",
-    "url": "https://my-tv-proxy.1092257082.workers.dev/"
-  },
-  {
-    "name": "私人快车资源",
-    "url": "https://my-tv-proxy.1092257082.workers.dev/"
-  }
-]
+{
+  "name": "我的私人影视源",
+  "version": 2,
+  "sources": [
+    {
+      "name": "私人索尼资源",
+      "url": "https://my-tv-proxy.1092257082.workers.dev/"
+    },
+    {
+      "name": "私人快车资源",
+      "url": "https://my-tv-proxy.1092257082.workers.dev/"
+    }
+  ]
+}
